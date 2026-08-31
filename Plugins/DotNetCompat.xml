@@ -17,6 +17,7 @@ It is added by Magnetar automatically on demand.
 
     <SourceDirectories>
         <Directory>ServerPlugin</Directory>
+        <Directory>Shared</Directory>
     </SourceDirectories>
 
 	<NuGetReferences>
