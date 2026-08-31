@@ -18,7 +18,7 @@ It is added by Magnetar automatically on demand.</Description>
         <Directory>ServerPlugin</Directory>
     </SourceDirectories>
 
-    <Runtimes>NETCoreApp</Runtimes>
+    <Runtimes>CoreCLR</Runtimes>
     <Platforms>Linux</Platforms>
 
     <Hidden>true</Hidden>

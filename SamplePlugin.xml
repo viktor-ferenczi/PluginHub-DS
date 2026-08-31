@@ -46,8 +46,8 @@
     </DependencyIds> 
     -->
 
-    <!-- Optional tag that restricts the plugin to specific runtimes (case sensitive: NETFramework, NETCoreApp). List multiple, comma separated. If omitted, the runtime is detected from the compiled assembly.
-    <Runtimes>NETFramework,NETCoreApp</Runtimes>
+    <!-- Optional tag that restricts the plugin to specific runtimes (case sensitive: CLR, CoreCLR). List multiple, comma separated. If omitted, the runtime is detected from the compiled assembly.
+    <Runtimes>CLR,CoreCLR</Runtimes>
     -->
 
     <!-- Optional tag that restricts the plugin to specific platforms (case sensitive: Windows, Linux). List multiple, comma separated. If omitted, the plugin loads on all platforms.
