@@ -26,7 +26,7 @@ It is added by Magnetar automatically on demand.
 		<PackageReference Include="System.Diagnostics.PerformanceCounter" Version="9.0.0" />
 	</NuGetReferences>
 
-    <Runtimes>CoreCLR</Runtimes>
+    <Runtimes>NETCoreApp</Runtimes>
 
     <Hidden>true</Hidden>
     
