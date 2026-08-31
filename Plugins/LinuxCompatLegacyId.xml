@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
 
-    <Id>linux-compat</Id>
-    <GroupId>linux-compat</GroupId>
+    <Id>se-linux-compat</Id>
+    <GroupId>se-linux-compat</GroupId>
     <RepoId>CometWorks/linux-compat</RepoId>
 
     <FriendlyName>LinuxCompat</FriendlyName>
@@ -23,6 +23,6 @@ It is added by Magnetar automatically on demand.</Description>
 
     <Hidden>true</Hidden>
 
-    <Commit>a851c6e4886014365f5def78d4194554fc6d7616</Commit>
+    <Commit>0d7204bfe85b0397613d1e4ce128a6d184e9c61e</Commit>
 
 </PluginData>

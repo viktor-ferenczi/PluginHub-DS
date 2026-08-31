@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
 
-    <Id>dotnet-compat</Id>
-    <GroupId>dotnet-compat</GroupId>
+    <Id>se-dotnet-compat</Id>
+    <GroupId>se-dotnet-compat</GroupId>
     <RepoId>CometWorks/dotnet-compat</RepoId>
 
     <FriendlyName>DotNetCompat</FriendlyName>
@@ -30,6 +30,6 @@ It is added by Magnetar automatically on demand.
 
     <Hidden>true</Hidden>
     
-    <Commit>fb88033fd1dc3263e5e1552ae7b483a4534e79e3</Commit>
+    <Commit>0f0187049a5f157f8e0eb843c99f12ca397156b2</Commit>
 
 </PluginData>
