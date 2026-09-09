@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>ed9619c5-b086-4d75-8f50-83af005e1623</Id>
+  <RepoId>OwendB1/FactionRepSync</RepoId>
+  <FriendlyName>FactionRepSync</FriendlyName>
+  <Author>OwendB1</Author>
+  <Tooltip>Keep members' reputation aligned with their faction, with live client synchronization.</Tooltip>
+  <Description>Magnetar server plugin. Copies faction relations to human members, including offline members, and broadcasts exact reputation totals using SE's native protocol. No client plugin or mod required. Configure enablement and interval through Quasar.</Description>
+  <SourceDirectories>
+    <Directory>ServerPlugin</Directory>
+  </SourceDirectories>
+  <Commit>47b11077a74a4013b21945362c6a42118f74e282</Commit>
+</PluginData>
